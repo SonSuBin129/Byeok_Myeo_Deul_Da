@@ -1,0 +1,10 @@
+canvas {
+  background-color: #eee;
+  display: none;
+  margin: 0 auto;
+}
+#video {
+  background-color: #eee;
+  margin: 0 auto;
+  display: block;
+}

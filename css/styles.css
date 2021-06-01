@@ -1,0 +1,7 @@
+@import "info.css";
+@import "main.css";
+
+* {
+  padding: 0;
+  margin: 0;
+}
